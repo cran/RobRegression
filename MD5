@@ -1,0 +1,13 @@
+1321630b00564b4b025c7193ba19f1d2 *DESCRIPTION
+659b39a079a5c171d675b96aa5b4b28f *NAMESPACE
+4ac151db9ab9782ffac92e171245d344 *R/Final_functions.R
+28653a1bb55a3a5b6f8f1a1282b01dfa *R/RcppExports.R
+287e260a3ca4ab5c02bb6898d8a53df1 *R/fonctions_annexes_robust_gmm.R
+ab87b95f158773ec76b40832f2665c16 *build/partial.rdb
+90f64816c3fd4c6eb72be4d4a4efce4a *man/RobRegression-package.Rd
+05ca754e506049e31ca441a58d2443fe *man/Robust_Mahalanobis_regression.Rd
+e4e6928160a029cce7ca361ae4c3205c *man/Robust_Variance.Rd
+df3b57b808fc34c93747baad0a24de58 *man/Robust_regression.Rd
+606d64fa561f1000382ce9d3113456ea *src/Makevars.win
+392e3c9f90b697fa6d322de159e6bfb9 *src/RcppExports.cpp
+c33bb872ef4d6629a4857fd6ab15b1e1 *src/RobRegression.cpp
